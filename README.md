@@ -1,7 +1,11 @@
-# 🏗️ Modern Data Engineering Pipeline with Medallion Architecture  
+# 🏗️ Azure-Medallion-Lakehouse-with-DBT-Databricks-Spark  
 **Built using DBT, Databricks, Apache Spark, Azure Data Lake Gen2, and Azure Data Factory**
 
 This project showcases a modern data engineering pipeline leveraging the **Medallion Architecture** on Azure. It demonstrates how to ingest, transform, and curate data using tools like **Apache Spark**, **Databricks**, **DBT**, and **Azure Data Factory**, storing it efficiently in **Azure Data Lake Gen2**. The layered approach ensures high data quality, scalability, and reusability across business analytics and machine learning use cases.
+
+
+<img width="1536" height="1024" alt="architecture2" src="https://github.com/user-attachments/assets/dd32b7fe-808b-4310-a40e-1c8127dafbbf" />
+
 
 ---
 
@@ -62,3 +66,7 @@ project/
 ├── dbt_project/         # DBT models, seeds, tests, and documentation
 ├── img/                 # Architecture diagram and project assets
 └── README.md
+
+---
+
+
